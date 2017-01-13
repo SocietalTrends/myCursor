@@ -1,9 +1,10 @@
-# testFollow
-to follow Twitter users on command-line by python-twitter-tools
+# myCursor
+to show as many follower names of user assigned as numbers you input on command-line by python-twitter-tools
 
-testFollow
+myCursor
 =====
-testFollow は python-twitter-tools を使い、コマンドラインからユーザをフォローします
+myCursor は python-twitter-tools を使い、コマンドラインから指定したユーザのフォロワー名一覧を出力します。
+Cursorによるページ遷移を勉強するために、作ってみました。
 
 前提 - Premise
 -----
@@ -11,4 +12,4 @@ testFollow は python-twitter-tools を使い、コマンドラインからユ�
 
 ライセンス - Licence
 -----
- は MITライセンスに帰属します。
+myCursor は MITライセンスに帰属します。
